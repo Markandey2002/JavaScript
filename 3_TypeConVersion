@@ -1,0 +1,14 @@
+let scroe = "33avb"
+console.log(typeof scroe);
+
+let valueInNumber = Number(scroe)
+console.log(typeof valueInNumber);
+console.log(valueInNumber);
+
+// "33" => 33
+// "33abc"  => NaN
+
+//********* Operations  *********
+let value  = 3
+let negValue = -value
+console.log(negValue)
